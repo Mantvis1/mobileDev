@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="new_reminder">Naujas priminimas</string>
+    <string name="review_reminders">Perziureti priminimus</string>
+    <string name="settings">Nustatymai</string>
+    <string name="RemindersList">Priminimu sarasas</string>
+    <string name="allSettingsList">Nustatymu sarasas</string>
+    <string name="addNewReminder">Naujas priminimas </string>
+    <string name="remind">Priminti</string>
+    <string name="minutesBefore" >Prieš (min)</string>
+    <string name="updateSettings">Atnaujinti</string>
+    <string name="defaultValue">Default</string>
+    <string name="remindEarly">Isankstinis priminimas</string>
+
+</resources>
